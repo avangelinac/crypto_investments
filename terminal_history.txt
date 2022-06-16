@@ -1,0 +1,15 @@
+  323  cd financial_modelling_project_one
+  324  git add .
+  325  git commit -m "commit"
+  326  git push origin main
+  327  cd desktop
+  328  git add.
+  329  git add .
+  330  git add .
+  331  git clone https://github.com/avangelinac/crypto_investments.git
+  332  git add .
+  333  cd crypto_investments
+  334  git add .
+  335  git commit -m "commit"
+  336  git push origin main
+  337  history 15 > terminal_history.txt

@@ -1,7 +1,7 @@
 # crypto_investments
 Module 10
 
-**The application is published [here](https://github.com/avangelinac/crypto_investments) as a github project page.**
+**The application is published [here](http://avangelinac.github.io/crypto_investments) as a github project page.**
 
 ---
 ## Installation Instructions
